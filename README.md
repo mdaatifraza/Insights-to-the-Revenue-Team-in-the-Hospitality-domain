@@ -1,6 +1,8 @@
 # Insights-to-the-Revenue-Team-in-the-Hospitality-domain
 
-- This interactive Power BI dashboard provides AtliQ Grands with actionable business intelligence insights to regain market share and revenue in the luxury/business hotel category.
+## Overview: 
+
+- Welcome to the AtliQ Grands Business Intelligence Dashboard, designed to provide comprehensive insights into the performance metrics of our luxury/business hotels across India. This interactive dashboard leverages historical data to empower strategic decision-making, enhance revenue management strategies, and regain market share.
 
 ## Key Features:
 
